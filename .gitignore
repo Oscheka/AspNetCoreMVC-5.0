@@ -5,3 +5,5 @@
 /.vs
 /Oscheka.BookStore/.vs/Oscheka.BookStore/v16
 /Oscheka.BookStore/Oscheka.BookStore/obj
+/Oscheka.BookStore/.vs/Oscheka.BookStore
+/Oscheka.BookStore/Oscheka.BookStore/bin/Debug/net5.0
